@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleLinkedList/DoubleLinkedList.iml" filepath="$PROJECT_DIR$/DoubleLinkedList/DoubleLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" filepath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" />
+    </modules>
+  </component>
+</project>
